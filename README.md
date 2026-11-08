@@ -4,7 +4,7 @@
 **iwatobipen/iwatobipen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=iwatobipen)](https://github.com/anuraghazra/github-readme-stats)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iwatobipen&theme=tokyo-night)
+![Activity Graph](https://ithub-stats-extended.vercel.app/graph?username=iwatobipen&theme=tokyo-night)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
